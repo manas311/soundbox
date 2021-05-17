@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background-color: #c0fefc;
+}
+
+p{
+  color: #3edbf0;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #04009a;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+.musicbox {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 1.5;
+  font-weight: 900;
+  color: #233e8b;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 125px;
+  height: 130px;
+  text-align: center;
+  margin: 10px;
+  background-color: #1eae98;
+}
